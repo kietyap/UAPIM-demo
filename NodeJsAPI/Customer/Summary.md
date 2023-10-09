@@ -3,6 +3,6 @@
 
 **Supported operations**
 
-- Get all customers (2)
+- Get all customers
 - Get a specific customer with a specific ID
 - Add customers
